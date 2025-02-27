@@ -16,13 +16,14 @@ const About: React.FC = () => {
     return (
         <section
             id={headerItems.about.page}
-            className="md:h-screen flex flex-col md:flex-row md:text-start text-center justify-center items-center"
+            className="md:h-full flex flex-col md:flex-row md:text-start text-center justify-center items-center"
         >
             <div className="m-4 md:ml-20 sm:ml-12 md:w-1/2">
                 <h1 className="text-6xl my-6 ">About</h1>
                 <h2 className="text-3xl my-4">Get to Know me!</h2>
                 <p
-                    className="[&>p]:mt-5 text-xl"
+                    className="[&>p]:mt-5 mt-4 mb-4 text-base text-bold md:text-base lg:text-lg"
+
                     dangerouslySetInnerHTML={{ __html: aboutText }}
                 />
             </div>

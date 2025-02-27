@@ -23,8 +23,8 @@ export const projects = {
     koshis: { image: 'https://i.ibb.co/dwqdhb1F/koshish-media.jpg' },
     greenyard: { image: 'https://i.ibb.co/7JCbzNJw/greenyard1.jpg' },
     mern: { image: 'https://i.ibb.co/S4ZxwXzD/mern.jpg' },
-    guitar: { image: 'https://i.ibb.co/ZRmcLt77/guitar.jpg' },
-    nepkart: { image: 'https://i.ibb.co/KchT6jr6/Screenshot-1849.png' },
+    //guitar: { image: 'https://i.ibb.co/ZRmcLt77/guitar.jpg' },
+    nepkart: { image: 'https://i.ibb.co/KchT6jr6/Screenshot-1849.jpg' },
 
 }
 
