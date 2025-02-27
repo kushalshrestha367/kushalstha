@@ -12,17 +12,17 @@ const Footer: React.FC = () => {
 
                 {/* Social Media Links */}
                 <div className="flex justify-center items-center mt-4 space-x-5">
-                    <Link href="https://facebook.com" target="_blank">
-                        <Facebook className="w-6 h-6 sm:w-7 sm:h-7 hover:text-blue-500 transition" />
+                    <Link href="https://www.facebook.com/kushal.shrestha.967806" target="_blank">
+                        <Facebook className="w-6 h-6 hover:text-blue-500 transition" />
                     </Link>
-                    <Link href="https://instagram.com" target="_blank">
-                        <Instagram className="w-6 h-6 sm:w-7 sm:h-7 hover:text-pink-500 transition" />
+                    <Link href="https://www.instagram.com/kushalshrestha4279/profilecard/?igsh=Y205OGQ1MzI0MzBi" target="_blank">
+                        <Instagram className="w-6 h-6 hover:text-pink-500 transition" />
                     </Link>
                     <Link href="https://linkedin.com" target="_blank">
-                        <Linkedin className="w-6 h-6 sm:w-7 sm:h-7 hover:text-blue-700 transition" />
+                        <Linkedin className="w-6 h-6 hover:text-blue-700 transition" />
                     </Link>
-                    <Link href="https://github.com" target="_blank">
-                        <Github className="w-6 h-6 sm:w-7 sm:h-7 hover:text-gray-400 transition" />
+                    <Link href="https://github.com/kushalshrestha367" target="_blank">
+                        <Github className="w-6 h-6 hover:text-gray-400 transition" />
                     </Link>
                 </div>
             </div>
