@@ -22,7 +22,7 @@ const Intro: React.FC = () => {
             <div className="md:ml-20 sm:ml-12 md:w-1/2">
                 <h1 className='text-7xl uppercase hidden md:block'>Web Developer</h1>
                 <h1 className="text-2xl mt-5 md:text-3xl">
-                    Hi, I&apos;;m <span className="text-blue-700 text-3xl md:text-3xl ">{userInfo.name}</span>
+                    Hi, I&apos;m <span className="text-blue-700 text-3xl md:text-3xl ">{userInfo.name}</span>
                 </h1>
                 <p
                     className="mt-4 mb-4 text-base text-bold md:text-base lg:text-lg"
